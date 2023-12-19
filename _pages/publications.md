@@ -16,11 +16,11 @@ author_profile: true
 
 1. **Survey on Oblivious Transfer Protocols** <br>
 *Ying Gao, Hanyu Li, Wei Wang, Xiang Liu, Jie Chen* <br>
-<a href="https://www.jos.org.cn/josen/home?id=20210909102939001&name=English" target="_blank">Journal of Software</a> | <a href="https://www.jos.org.cn/josen/article/abstract/6692?st=search" target="_blank">pdf</a>
+<a href="https://www.jos.org.cn/josen/home?id=20210909102939001&name=English" target="_blank">Journal of Software</a> 2023 | <a href="https://www.jos.org.cn/josen/article/abstract/6692?st=search" target="_blank">pdf</a>
 
 2. **Fast Software Implementation of ZUC Algorithm** <br>
 *Yupeng Zhang, Ying Gao, Yu Yan, Xiang Liu* <br>
-<a href="http://www.jcr.cacrnet.org.cn/EN/home" target="_blank">Journal of Cryptologic Research</a> | <a href="http://www.jcr.cacrnet.org.cn/EN/10.13868/j.cnki.jcr.000446" target="_blank">pdf</a>
+<a href="http://www.jcr.cacrnet.org.cn/EN/home" target="_blank">Journal of Cryptologic Research</a> 2021 | <a href="http://www.jcr.cacrnet.org.cn/EN/10.13868/j.cnki.jcr.000446" target="_blank">pdf</a>
 
 
 

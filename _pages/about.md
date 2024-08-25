@@ -14,4 +14,6 @@ My main research interests are **multiparty computation** and **zero-knowledge p
 
 ## News
 
+**August 2024** Our paper *Efficient Fuzzy Private Set Intersection from Fuzzy Mapping* has been accepted by ASIACRYPT'2024!
+
 **August 2024** Our paper *Efficient Scalable Multi-Party Private Set Intersection(-Variants) from Bicentric Zero-Sharing* has been accepted by CCS'2024!

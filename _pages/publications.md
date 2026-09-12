@@ -7,15 +7,19 @@ author_profile: true
 
 ## Papers in Refereed Conferences
 
-1. **Efficient Scalable Multi-Party Private Set Intersection(-Variants) from Bicentric Zero-Sharing** <br>
+1. **Subring VOLE over Galois Rings with Applications to ZK over Zpk** <br>
+*Ignacio Cascudo, Xiang Liu* <br>
+<a href="https://asiacrypt.iacr.org/2026/" target="_blank">ASIACRYPT 2026</a> | <a href="https://eprint.iacr.org/2026/1864" target="_blank">eprint</a>
+
+2. **Efficient Scalable Multi-Party Private Set Intersection(-Variants) from Bicentric Zero-Sharing** <br>
 *Ying Gao, Yuanchao Luo, Longxin Wang, Xiang Liu, Lin Qi, Wei Wang, Mengmeng Zhou* <br>
 <a href="https://www.sigsac.org/ccs/CCS2024/" target="_blank">CCS 2024</a> | <a href="https://dl.acm.org/doi/10.1145/3658644.3690245" target="_blank">paper</a> | <a href="https://github.com/orzcy/BZS-MPSI" target="_blank">code</a>
 
-2. **Efficient Fuzzy Private Set Intersection from Fuzzy Mapping** <br>
+3. **Efficient Fuzzy Private Set Intersection from Fuzzy Mapping** <br>
 *Ying Gao, Lin Qi, Xiang Liu, Yuanchao Luo, Longxin Wang* <br>
 <a href="https://asiacrypt.iacr.org/2024/" target="_blank">ASIACRYPT 2024</a> | <a href="https://eprint.iacr.org/2024/1462" target="_blank">eprint</a> | <a href="https://github.com/ql70ql70/Fuzzy-Private-Set-Intersection-from-Fuzzy-Mapping" target="_blank">code</a> | <a href="https://iacr.org/submit/files/slides/2024/asiacrypt/asiacrypt2024/24/24_slides.pdf" target="_blank">slides</a> | <a href="https://www.youtube.com/watch?v=FddijxFRAeY&list=PLeeS-3Ml-rpoZPyKxERAnTFYWqcRhUTAw&index=42&t=21min2s" target="_blank">video</a>
 
-3. **Scalable Multi-Party Private Set Union from Multi-Query Secret-Shared Private Membership Test** <br>
+4. **Scalable Multi-Party Private Set Union from Multi-Query Secret-Shared Private Membership Test** <br>
 *Xiang Liu, Ying Gao* <br>
 <a href="https://asiacrypt.iacr.org/2023/" target="_blank">ASIACRYPT 2023</a> | <a href="https://eprint.iacr.org/2023/1413" target="_blank">eprint</a> | <a href="https://github.com/lx-1234/MPSU" target="_blank">code</a> | <a href="https://iacr.org/submit/files/slides/2023/asiacrypt/asiacrypt2023/22/slides.pdf" target="_blank">slides</a> | <a href="https://www.youtube.com/watch?v=V-a1T2a7hwo&t=158s" target="_blank">video</a>
 
